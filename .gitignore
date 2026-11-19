@@ -1,0 +1,16 @@
+.DS_Store
+.idea/
+__pycache__/
+*.pyc
+.venv*/
+venv/
+.ipynb_checkpoints/
+
+# Data and run outputs (never committed)
+data/*
+!data/.gitkeep
+runs/
+
+# Third-party repositories (clone separately, see README)
+LogME/
+facebook-denoiser/
